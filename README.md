@@ -1,16 +1,20 @@
-### Hi there 👋
+<style>
+  .centered {
+    text-align: center;
+  }
 
-<!--
-**NicMortelliti/NicMortelliti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  .italic {
+    font-style: italic;;
+  }
+</style>
 
-Here are some ideas to get you started:
+<div class="centered">
+  <h1>Nic Mortelliti</h1>
+  <h2 class="italic">"The flying full stack developer"</h2>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+**Full Stack Developer** with extensive engineering experience on **agile** teams. With a tenacious drive and meticulous attention to detail, I have developed cost-saving tools and safety-critical software. I’m always exploring new technologies and tools that benefit my personal and professional projects. I’m also easily excited by airplanes.
