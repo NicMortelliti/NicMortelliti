@@ -1,17 +1,7 @@
-<style>
-  .centered {
-    text-align: center;
-  }
+# Nic Mortelliti
+  
 
-  .italic {
-    font-style: italic;;
-  }
-</style>
-
-<div class="centered">
-  <h1>Nic Mortelliti</h1>
-  <h2 class="italic">"The flying full stack developer"</h2>
-</div>
+## *"The flying full stack developer"*
 
 ---
 
