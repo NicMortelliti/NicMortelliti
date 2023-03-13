@@ -7,7 +7,8 @@ I'm a **Full Stack Developer** with extensive engineering experience on **agile*
 <img align="left" width="47%" src="https://streak-stats.demolab.com?user=nicmortelliti&theme=tokyonight&hide_border=true&border_radius=0" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicMortelliti&layout=compact"/>
 
-## Connect With Me
+  
+<h2 align="center">Connect With Me</h2>
 <a href="https://www.linkedin.com/in/nicolas-mortelliti/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
