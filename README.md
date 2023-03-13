@@ -4,27 +4,8 @@
 
 I'm a **Full Stack Developer** with extensive engineering experience on **agile** teams in the avionics industry. With a tenacious drive and meticulous attention to detail, I have developed cost-saving tools and safety-critical software. I’m always exploring new technologies and tools that benefit my personal and professional projects. I’m also easily excited by airplanes.
 
----
-
-## Currently working with:
-
-<div align="center">
-<img align="left" alt="Ruby on Rails" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
-
-<img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
-<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-
-<img align="left" alt="Ruby on Rails" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-
-</div>
-
-<br />
-<br />
-
----
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=nicmortelliti&theme=tokyonight&hide_border=true&border_radius=0)](https://git.io/streak-stats)
+<img align="left" width="47%" src="https://streak-stats.demolab.com?user=nicmortelliti&theme=tokyonight&hide_border=true&border_radius=0" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicMortelliti&layout=compact"/>
 
 ## Connect With Me
 
