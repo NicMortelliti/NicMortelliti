@@ -8,7 +8,10 @@ I'm a **Full Stack Developer** with extensive engineering experience on **agile*
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicMortelliti&layout=compact"/>
 
 ## Connect With Me
+<a href="https://www.linkedin.com/in/nicolas-mortelliti/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-mortelliti/)
-
-[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/nicm)
+<a href="https://dev.to/nicm" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+</a>
