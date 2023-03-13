@@ -1,7 +1,3 @@
-<h1 align="center">
-  Nic Mortelliti
-</h1>
-
 <div align="center">
   <table>
     <tr>
