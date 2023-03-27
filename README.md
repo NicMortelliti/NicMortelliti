@@ -2,6 +2,7 @@
   <table>
     <tr>
       <td>
+        ![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=Nic%20Mortelliti&fontSize=90)
         <h2 align="center">
           <em>🛩️ The flying full stack developer 🛩️</em>
         </h2>
