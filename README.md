@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Nic%20Mortelliti&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Nic%20Mortelliti&fontSize=90&fontAlignY=38&desc=The%20Flying%20Full%20Stack%20Developer&descAlignY=51&descAlign=62
 <div align="center">
   <table>
     <tr>
