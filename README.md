@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=Nic%20Mortelliti&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Nic%20Mortelliti&fontSize=90)
 <div align="center">
   <table>
     <tr>
