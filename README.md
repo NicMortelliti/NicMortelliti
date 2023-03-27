@@ -1,11 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Nic%20Mortelliti&fontSize=90&fontAlignY=38&desc=🛩️%20The%20Flying%20Full%20Stack%20Developer🛩️&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Nic%20Mortelliti&fontSize=90&fontAlignY=38&desc=🛩️%20The%20Flying%20Full%20Stack%20Developer🛩️&descAlignY=51&fontSize=60&descAlign=62)
 <div align="center">
   <table>
     <tr>
       <td>
-        <h2 align="center">
-          <em>🛩️ The flying full stack developer 🛩️</em>
-        </h2>
         <a href="https://www.linkedin.com/in/nicolas-mortelliti/">
           <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
         </a>
