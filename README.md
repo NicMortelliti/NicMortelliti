@@ -1,6 +1,6 @@
 #
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Nic%20Mortelliti&fontSize=90&fontAlignY=38&desc=🛩️%20The%20Flying%20Full%20Stack%20Developer🛩️&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:F9A470,100:BC5563&height=300&section=header&fontColor=FFD&text=Nic%20Mortelliti&fontSize=90&fontAlignY=38&desc=🛩️%20The%20Flying%20Full%20Stack%20Developer🛩️&descAlignY=51&descAlign=62)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-mortelliti/) [![Dev.To](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/nicm)
 
