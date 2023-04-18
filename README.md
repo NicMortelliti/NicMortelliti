@@ -6,4 +6,3 @@
 
 I'm a **Full Stack Developer** with extensive engineering experience on **agile** teams in the avionics industry. With a tenacious drive and meticulous attention to detail, I have developed cost-saving tools and safety-critical software. I’m always exploring new technologies and tools that benefit my personal and professional projects. I’m also easily excited by airplanes.
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicMortelliti&layout=compact)
